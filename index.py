@@ -12,3 +12,4 @@ if fraction==int(fraction):
 else:
     print("\nThe younger figure of the whole part is " + str(bigger) + ".")
     print("\nThe older part of the fractional part is " + str(smaller) + ".\n")
+temp = float(input()) #чтобы консоль не закрывалась
